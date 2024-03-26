@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { getLastBlockNumber } from './getLastBlockNumber';
-import { getUSDTBalance } from './getUSDTBalance';
+import { getLastBlockNumber } from 'simple-libraryq';
+import { getUSDTBalance } from 'simple-libraryq';
 import './App.css'
 
 const Loader: React.FC = () => <div>Loading...</div>;
