@@ -13,7 +13,8 @@
   "dependencies": {
     "ethers": "^6.11.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "simple-libraryq": "^0.0.2"
   },
   "devDependencies": {
     "@ethersproject/contracts": "^5.7.0",
